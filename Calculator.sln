@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator-CLI", "Calculator-CLI\Calculator-CLI.csproj", "{B3360504-A4B8-4074-BB07-A21F49D13019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator-GUI", "Calculator-GUI\Calculator-GUI.csproj", "{86C6160C-D424-4265-81C7-8D34CA26BF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3360504-A4B8-4074-BB07-A21F49D13019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3360504-A4B8-4074-BB07-A21F49D13019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3360504-A4B8-4074-BB07-A21F49D13019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3360504-A4B8-4074-BB07-A21F49D13019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C6160C-D424-4265-81C7-8D34CA26BF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C6160C-D424-4265-81C7-8D34CA26BF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C6160C-D424-4265-81C7-8D34CA26BF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C6160C-D424-4265-81C7-8D34CA26BF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
